@@ -1,0 +1,3 @@
+Excel Function,Python Equivalent,Library,Example,GitHub user
+SUM,df['col'].sum(),pandas,df['Ventas'].sum(),vegacastilloe
+IF,np.where(),numpy,np.where(df['x'] > 0; 'Si­'; 'No'),vegacastilloe
