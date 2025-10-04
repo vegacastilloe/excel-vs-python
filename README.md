@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![Last Updated](https://img.shields.io/github/last-commit/vegacastilloe/Excel_vs_Python_—_40_años,_40_funciones)
+![Last Updated](https://img.shields.io/github/last-commit/vegacastilloe/excel-vs-python)
 ![Language](https://img.shields.io/badge/language-español-darkred)
 
 ---
@@ -13,6 +13,8 @@
 
 Este repositorio es colaborativo, didáctico y abierto.  
 Ideal para analistas que están migrando a Python, para formadores, y para quienes quieren entender la lógica detrás de cada fórmula.
+
+![Banner](assets/excelvspython.png)
 
 ---
 
